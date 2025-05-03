@@ -5,6 +5,11 @@
 <li> Estoy aprendiendo desarrollo de back-end con java</li>
 
 <h4 align="left"> IGAC </h4>🛡️ Formación práctica con herramientas como Kali Linux, Wireshark, Nmap, Metasploit, Velociraptor, entre otras.
+<h4 align="left"> 
+🔐 Experiencia en detección de amenazas, hardening de sistemas, análisis forense básico y políticas de seguridad informática.
+ </h4>
+ <h4 align="left"> 🌐 Conocimientos en redes, sistemas operativos, y normativas como ISO/IEC 27001.</h4>
+ <h4 align="left"> 🎓 Formación previa en desarrollo backend con Java, JavaScript, MySQL y Spring Boot. Experiencia en diseño de APIs REST y desarrollo de sistemas CRUD.</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elkin64466050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elkin64466050" height="30" width="40" /></a>
