@@ -1,11 +1,10 @@
 
 <h1 align="center">Hola 👋, soy Elkin Javier Daza</h1>
-<h3 align="center"> BackEnd Developer </h3>
-<li> Actualmente estoy trabajando en el aprendizaje en MAKAIA bootcamp </li>
+<h3 align="center"> Cybersecurity Specialist </h3>
+<li> Actualmente enfocado en el análisis de vulnerabilidades, seguridad ofensiva/defensiva, monitoreo de redes y pruebas de penetración en entornos reales y virtualizados. </li>
 <li> Estoy aprendiendo desarrollo de back-end con java</li>
 
-<h4 align="left"> Bootcamp MAKAIA Backend : </h4> Entrenamiento de alto rendimiento de desarrollo web Backend con énfasis en Java, JavaScript, MySQL, además manejo de Spring Boot; Elaboración de API´S y desarrollo de CRUD.
-
+<h4 align="left"> IGAC </h4>🛡️ Formación práctica con herramientas como Kali Linux, Wireshark, Nmap, Metasploit, Velociraptor, entre otras.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elkin64466050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elkin64466050" height="30" width="40" /></a>
