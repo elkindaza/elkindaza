@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, soy Elkin Javier Daza</h1>
 <h3 align="center"> Cybersecurity Specialist </h3>
 <li> Actualmente enfocado en el análisis de vulnerabilidades, seguridad ofensiva/defensiva, monitoreo de redes y pruebas de penetración en entornos reales y virtualizados. </li>
-<li> Estoy aprendiendo desarrollo de back-end con java</li>
+
 
 <h4 align="left"> IGAC </h4>🛡️ Formación práctica con herramientas como Kali Linux, Wireshark, Nmap, Metasploit, Velociraptor, entre otras.
 <h4 align="left"> 
